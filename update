@@ -2,7 +2,7 @@
   {
     "name": "آپدیت جدید",
     "text": "برای دانلود آپدیت جدید روی دکمه دانلود ضربه بزنید",
-    "update": true,
+    "update": false,
     "link": "https://rubika.ir/devolboy",
     "mode": true
   }
